@@ -1,0 +1,168 @@
+Processing frame:
+Behavior: write, Confidence: 0.41, Emotion: neutral, Emotion Confidence: 68.73, Focus Score: 1.00
+Behavior: read, Confidence: 0.43, Emotion: sad, Emotion Confidence: 100.00, Focus Score: 0.08
+Behavior: rise_hand, Confidence: 0.48, Emotion: fear, Emotion Confidence: 67.79, Focus Score: 0.01
+Behavior: read, Confidence: 0.60, Emotion: neutral, Emotion Confidence: 99.77, Focus Score: 1.00
+Behavior: read, Confidence: 0.81, Emotion: neutral, Emotion Confidence: 97.70, Focus Score: 1.00
+Behavior: read, Confidence: 0.82, Emotion: angry, Emotion Confidence: 99.64, Focus Score: 0.15
+Behavior: read, Confidence: 0.86, Emotion: sad, Emotion Confidence: 53.57, Focus Score: 0.15
+Behavior: read, Confidence: 0.96, Emotion: fear, Emotion Confidence: 77.21, Focus Score: 0.17
+Processing frame:
+Behavior: write, Confidence: 0.41, Emotion: neutral, Emotion Confidence: 0.69, Focus Score: 0.33
+Behavior: read, Confidence: 0.43, Emotion: sad, Emotion Confidence: 1.00, Focus Score: 0.08
+Behavior: rise_hand, Confidence: 0.48, Emotion: fear, Emotion Confidence: 0.68, Focus Score: 0.01
+Behavior: read, Confidence: 0.60, Emotion: neutral, Emotion Confidence: 1.00, Focus Score: 0.53
+Behavior: read, Confidence: 0.81, Emotion: neutral, Emotion Confidence: 0.98, Focus Score: 0.56
+Behavior: read, Confidence: 0.82, Emotion: angry, Emotion Confidence: 1.00, Focus Score: 0.15
+Behavior: read, Confidence: 0.86, Emotion: sad, Emotion Confidence: 0.54, Focus Score: 0.15
+Behavior: read, Confidence: 0.96, Emotion: fear, Emotion Confidence: 0.77, Focus Score: 0.17
+Processing frame:
+Behavior: read, Confidence: 0.30, Emotion: fear, Emotion Confidence: 0.60, Focus Score: 0.05
+Behavior: read, Confidence: 0.31, Emotion: sad, Emotion Confidence: 0.72, Focus Score: 0.06
+Behavior: read, Confidence: 0.42, Emotion: sad, Emotion Confidence: 1.00, Focus Score: 0.08
+Behavior: read, Confidence: 0.44, Emotion: neutral, Emotion Confidence: 0.87, Focus Score: 0.45
+Behavior: rise_hand, Confidence: 0.79, Emotion: sad, Emotion Confidence: 0.99, Focus Score: 0.02
+Behavior: read, Confidence: 0.80, Emotion: neutral, Emotion Confidence: 0.87, Focus Score: 0.51
+Behavior: read, Confidence: 0.88, Emotion: angry, Emotion Confidence: 1.00, Focus Score: 0.16
+Behavior: read, Confidence: 0.88, Emotion: sad, Emotion Confidence: 0.99, Focus Score: 0.16
+Behavior: read, Confidence: 0.97, Emotion: fear, Emotion Confidence: 0.60, Focus Score: 0.17
+Processing frame:
+Behavior: write, Confidence: 0.41, Emotion: neutral, Emotion Confidence: 68.73, Focus Score: 1.00
+Behavior: read, Confidence: 0.43, Emotion: sad, Emotion Confidence: 100.00, Focus Score: 0.08
+Behavior: rise_hand, Confidence: 0.48, Emotion: fear, Emotion Confidence: 67.79, Focus Score: 0.01
+Behavior: read, Confidence: 0.60, Emotion: neutral, Emotion Confidence: 99.77, Focus Score: 1.00
+Behavior: read, Confidence: 0.81, Emotion: neutral, Emotion Confidence: 97.70, Focus Score: 1.00
+Behavior: read, Confidence: 0.82, Emotion: angry, Emotion Confidence: 99.64, Focus Score: 0.15
+Behavior: read, Confidence: 0.86, Emotion: sad, Emotion Confidence: 53.57, Focus Score: 0.15
+Behavior: read, Confidence: 0.96, Emotion: fear, Emotion Confidence: 77.21, Focus Score: 0.17
+Processing frame:
+Behavior: write, Confidence: 0.41, Emotion: neutral, Emotion Confidence: 0.69, Focus Score: 0.33
+Behavior: read, Confidence: 0.43, Emotion: sad, Emotion Confidence: 1.00, Focus Score: 0.08
+Behavior: rise_hand, Confidence: 0.48, Emotion: fear, Emotion Confidence: 0.68, Focus Score: 0.01
+Behavior: read, Confidence: 0.60, Emotion: neutral, Emotion Confidence: 1.00, Focus Score: 0.53
+Behavior: read, Confidence: 0.81, Emotion: neutral, Emotion Confidence: 0.98, Focus Score: 0.56
+Behavior: read, Confidence: 0.82, Emotion: angry, Emotion Confidence: 1.00, Focus Score: 0.15
+Behavior: read, Confidence: 0.86, Emotion: sad, Emotion Confidence: 0.54, Focus Score: 0.15
+Behavior: read, Confidence: 0.96, Emotion: fear, Emotion Confidence: 0.77, Focus Score: 0.17
+Processing frame:
+Behavior: read, Confidence: 0.30, Emotion: fear, Emotion Confidence: 0.60, Focus Score: 0.05
+Behavior: read, Confidence: 0.31, Emotion: sad, Emotion Confidence: 0.72, Focus Score: 0.06
+Behavior: read, Confidence: 0.42, Emotion: sad, Emotion Confidence: 1.00, Focus Score: 0.08
+Behavior: read, Confidence: 0.44, Emotion: neutral, Emotion Confidence: 0.87, Focus Score: 0.45
+Behavior: rise_hand, Confidence: 0.79, Emotion: sad, Emotion Confidence: 0.99, Focus Score: 0.02
+Behavior: read, Confidence: 0.80, Emotion: neutral, Emotion Confidence: 0.87, Focus Score: 0.51
+Behavior: read, Confidence: 0.88, Emotion: angry, Emotion Confidence: 1.00, Focus Score: 0.16
+Behavior: read, Confidence: 0.88, Emotion: sad, Emotion Confidence: 0.99, Focus Score: 0.16
+Behavior: read, Confidence: 0.97, Emotion: fear, Emotion Confidence: 0.60, Focus Score: 0.17
+Processing frame:
+Behavior: write, Confidence: 0.41, Emotion: neutral, Emotion Confidence: 68.73, Focus Score: 1.00
+Behavior: read, Confidence: 0.43, Emotion: sad, Emotion Confidence: 100.00, Focus Score: 0.08
+Behavior: rise_hand, Confidence: 0.48, Emotion: fear, Emotion Confidence: 67.79, Focus Score: 0.01
+Behavior: read, Confidence: 0.60, Emotion: neutral, Emotion Confidence: 99.77, Focus Score: 1.00
+Behavior: read, Confidence: 0.81, Emotion: neutral, Emotion Confidence: 97.70, Focus Score: 1.00
+Behavior: read, Confidence: 0.82, Emotion: angry, Emotion Confidence: 99.64, Focus Score: 0.15
+Behavior: read, Confidence: 0.86, Emotion: sad, Emotion Confidence: 53.57, Focus Score: 0.15
+Behavior: read, Confidence: 0.96, Emotion: fear, Emotion Confidence: 77.21, Focus Score: 0.17
+Processing frame:
+Behavior: write, Confidence: 0.41, Emotion: neutral, Emotion Confidence: 0.69, Focus Score: 0.33
+Behavior: read, Confidence: 0.43, Emotion: sad, Emotion Confidence: 1.00, Focus Score: 0.08
+Behavior: rise_hand, Confidence: 0.48, Emotion: fear, Emotion Confidence: 0.68, Focus Score: 0.01
+Behavior: read, Confidence: 0.60, Emotion: neutral, Emotion Confidence: 1.00, Focus Score: 0.53
+Behavior: read, Confidence: 0.81, Emotion: neutral, Emotion Confidence: 0.98, Focus Score: 0.56
+Behavior: read, Confidence: 0.82, Emotion: angry, Emotion Confidence: 1.00, Focus Score: 0.15
+Behavior: read, Confidence: 0.86, Emotion: sad, Emotion Confidence: 0.54, Focus Score: 0.15
+Behavior: read, Confidence: 0.96, Emotion: fear, Emotion Confidence: 0.77, Focus Score: 0.17
+Processing frame:
+Behavior: read, Confidence: 0.30, Emotion: fear, Emotion Confidence: 0.60, Focus Score: 0.05
+Behavior: read, Confidence: 0.31, Emotion: sad, Emotion Confidence: 0.72, Focus Score: 0.06
+Behavior: read, Confidence: 0.42, Emotion: sad, Emotion Confidence: 1.00, Focus Score: 0.08
+Behavior: read, Confidence: 0.44, Emotion: neutral, Emotion Confidence: 0.87, Focus Score: 0.45
+Behavior: rise_hand, Confidence: 0.79, Emotion: sad, Emotion Confidence: 0.99, Focus Score: 0.02
+Behavior: read, Confidence: 0.80, Emotion: neutral, Emotion Confidence: 0.87, Focus Score: 0.51
+Behavior: read, Confidence: 0.88, Emotion: angry, Emotion Confidence: 1.00, Focus Score: 0.16
+Behavior: read, Confidence: 0.88, Emotion: sad, Emotion Confidence: 0.99, Focus Score: 0.16
+Behavior: read, Confidence: 0.97, Emotion: fear, Emotion Confidence: 0.60, Focus Score: 0.17
+Processing frame:
+Behavior: write, Confidence: 0.41, Emotion: neutral, Emotion Confidence: 68.73, Focus Score: 1.00
+Behavior: read, Confidence: 0.43, Emotion: sad, Emotion Confidence: 100.00, Focus Score: 0.08
+Behavior: rise_hand, Confidence: 0.48, Emotion: fear, Emotion Confidence: 67.79, Focus Score: 0.01
+Behavior: read, Confidence: 0.60, Emotion: neutral, Emotion Confidence: 99.77, Focus Score: 1.00
+Behavior: read, Confidence: 0.81, Emotion: neutral, Emotion Confidence: 97.70, Focus Score: 1.00
+Behavior: read, Confidence: 0.82, Emotion: angry, Emotion Confidence: 99.64, Focus Score: 0.15
+Behavior: read, Confidence: 0.86, Emotion: sad, Emotion Confidence: 53.57, Focus Score: 0.15
+Behavior: read, Confidence: 0.96, Emotion: fear, Emotion Confidence: 77.21, Focus Score: 0.17
+Processing frame:
+Behavior: write, Confidence: 0.41, Emotion: neutral, Emotion Confidence: 0.69, Focus Score: 0.33
+Behavior: read, Confidence: 0.43, Emotion: sad, Emotion Confidence: 1.00, Focus Score: 0.08
+Behavior: rise_hand, Confidence: 0.48, Emotion: fear, Emotion Confidence: 0.68, Focus Score: 0.01
+Behavior: read, Confidence: 0.60, Emotion: neutral, Emotion Confidence: 1.00, Focus Score: 0.53
+Behavior: read, Confidence: 0.81, Emotion: neutral, Emotion Confidence: 0.98, Focus Score: 0.56
+Behavior: read, Confidence: 0.82, Emotion: angry, Emotion Confidence: 1.00, Focus Score: 0.15
+Behavior: read, Confidence: 0.86, Emotion: sad, Emotion Confidence: 0.54, Focus Score: 0.15
+Behavior: read, Confidence: 0.96, Emotion: fear, Emotion Confidence: 0.77, Focus Score: 0.17
+Processing frame:
+Behavior: read, Confidence: 0.30, Emotion: fear, Emotion Confidence: 0.60, Focus Score: 0.05
+Behavior: read, Confidence: 0.31, Emotion: sad, Emotion Confidence: 0.72, Focus Score: 0.06
+Behavior: read, Confidence: 0.42, Emotion: sad, Emotion Confidence: 1.00, Focus Score: 0.08
+Behavior: read, Confidence: 0.44, Emotion: neutral, Emotion Confidence: 0.87, Focus Score: 0.45
+Behavior: rise_hand, Confidence: 0.79, Emotion: sad, Emotion Confidence: 0.99, Focus Score: 0.02
+Behavior: read, Confidence: 0.80, Emotion: neutral, Emotion Confidence: 0.87, Focus Score: 0.51
+Behavior: read, Confidence: 0.88, Emotion: angry, Emotion Confidence: 1.00, Focus Score: 0.16
+Behavior: read, Confidence: 0.88, Emotion: sad, Emotion Confidence: 0.99, Focus Score: 0.16
+Behavior: read, Confidence: 0.97, Emotion: fear, Emotion Confidence: 0.60, Focus Score: 0.17
+Processing frame:
+Behavior: write, Confidence: 0.41, Emotion: neutral, Emotion Confidence: 68.73, Focus Score: 1.00
+Behavior: read, Confidence: 0.43, Emotion: sad, Emotion Confidence: 100.00, Focus Score: 0.08
+Behavior: rise_hand, Confidence: 0.48, Emotion: fear, Emotion Confidence: 67.79, Focus Score: 0.01
+Behavior: read, Confidence: 0.60, Emotion: neutral, Emotion Confidence: 99.77, Focus Score: 1.00
+Behavior: read, Confidence: 0.81, Emotion: neutral, Emotion Confidence: 97.70, Focus Score: 1.00
+Behavior: read, Confidence: 0.82, Emotion: angry, Emotion Confidence: 99.64, Focus Score: 0.15
+Behavior: read, Confidence: 0.86, Emotion: sad, Emotion Confidence: 53.57, Focus Score: 0.15
+Behavior: read, Confidence: 0.96, Emotion: fear, Emotion Confidence: 77.21, Focus Score: 0.17
+Processing frame:
+Behavior: write, Confidence: 0.41, Emotion: neutral, Emotion Confidence: 0.69, Focus Score: 0.33
+Behavior: read, Confidence: 0.43, Emotion: sad, Emotion Confidence: 1.00, Focus Score: 0.08
+Behavior: rise_hand, Confidence: 0.48, Emotion: fear, Emotion Confidence: 0.68, Focus Score: 0.01
+Behavior: read, Confidence: 0.60, Emotion: neutral, Emotion Confidence: 1.00, Focus Score: 0.53
+Behavior: read, Confidence: 0.81, Emotion: neutral, Emotion Confidence: 0.98, Focus Score: 0.56
+Behavior: read, Confidence: 0.82, Emotion: angry, Emotion Confidence: 1.00, Focus Score: 0.15
+Behavior: read, Confidence: 0.86, Emotion: sad, Emotion Confidence: 0.54, Focus Score: 0.15
+Behavior: read, Confidence: 0.96, Emotion: fear, Emotion Confidence: 0.77, Focus Score: 0.17
+Processing frame:
+Behavior: read, Confidence: 0.30, Emotion: fear, Emotion Confidence: 0.60, Focus Score: 0.05
+Behavior: read, Confidence: 0.31, Emotion: sad, Emotion Confidence: 0.72, Focus Score: 0.06
+Behavior: read, Confidence: 0.42, Emotion: sad, Emotion Confidence: 1.00, Focus Score: 0.08
+Behavior: read, Confidence: 0.44, Emotion: neutral, Emotion Confidence: 0.87, Focus Score: 0.45
+Behavior: rise_hand, Confidence: 0.79, Emotion: sad, Emotion Confidence: 0.99, Focus Score: 0.02
+Behavior: read, Confidence: 0.80, Emotion: neutral, Emotion Confidence: 0.87, Focus Score: 0.51
+Behavior: read, Confidence: 0.88, Emotion: angry, Emotion Confidence: 1.00, Focus Score: 0.16
+Behavior: read, Confidence: 0.88, Emotion: sad, Emotion Confidence: 0.99, Focus Score: 0.16
+Behavior: read, Confidence: 0.97, Emotion: fear, Emotion Confidence: 0.60, Focus Score: 0.17
+Processing frame:
+Behavior: write, Confidence: 0.41, Emotion: neutral, Emotion Confidence: 68.73, Focus Score: 1.00
+Behavior: read, Confidence: 0.43, Emotion: sad, Emotion Confidence: 100.00, Focus Score: 0.08
+Behavior: rise_hand, Confidence: 0.48, Emotion: fear, Emotion Confidence: 67.79, Focus Score: 0.01
+Behavior: read, Confidence: 0.60, Emotion: neutral, Emotion Confidence: 99.77, Focus Score: 1.00
+Behavior: read, Confidence: 0.81, Emotion: neutral, Emotion Confidence: 97.70, Focus Score: 1.00
+Behavior: read, Confidence: 0.82, Emotion: angry, Emotion Confidence: 99.64, Focus Score: 0.15
+Behavior: read, Confidence: 0.86, Emotion: sad, Emotion Confidence: 53.57, Focus Score: 0.15
+Behavior: read, Confidence: 0.96, Emotion: fear, Emotion Confidence: 77.21, Focus Score: 0.17
+Processing frame:
+Behavior: write, Confidence: 0.41, Emotion: neutral, Emotion Confidence: 0.69, Focus Score: 0.33
+Behavior: read, Confidence: 0.43, Emotion: sad, Emotion Confidence: 1.00, Focus Score: 0.08
+Behavior: rise_hand, Confidence: 0.48, Emotion: fear, Emotion Confidence: 0.68, Focus Score: 0.01
+Behavior: read, Confidence: 0.60, Emotion: neutral, Emotion Confidence: 1.00, Focus Score: 0.53
+Behavior: read, Confidence: 0.81, Emotion: neutral, Emotion Confidence: 0.98, Focus Score: 0.56
+Behavior: read, Confidence: 0.82, Emotion: angry, Emotion Confidence: 1.00, Focus Score: 0.15
+Behavior: read, Confidence: 0.86, Emotion: sad, Emotion Confidence: 0.54, Focus Score: 0.15
+Behavior: read, Confidence: 0.96, Emotion: fear, Emotion Confidence: 0.77, Focus Score: 0.17
+Processing frame:
+Behavior: read, Confidence: 0.30, Emotion: fear, Emotion Confidence: 0.60, Focus Score: 0.05
+Behavior: read, Confidence: 0.31, Emotion: sad, Emotion Confidence: 0.72, Focus Score: 0.06
+Behavior: read, Confidence: 0.42, Emotion: sad, Emotion Confidence: 1.00, Focus Score: 0.08
+Behavior: read, Confidence: 0.44, Emotion: neutral, Emotion Confidence: 0.87, Focus Score: 0.45
+Behavior: rise_hand, Confidence: 0.79, Emotion: sad, Emotion Confidence: 0.99, Focus Score: 0.02
+Behavior: read, Confidence: 0.80, Emotion: neutral, Emotion Confidence: 0.87, Focus Score: 0.51
+Behavior: read, Confidence: 0.88, Emotion: angry, Emotion Confidence: 1.00, Focus Score: 0.16
+Behavior: read, Confidence: 0.88, Emotion: sad, Emotion Confidence: 0.99, Focus Score: 0.16
+Behavior: read, Confidence: 0.97, Emotion: fear, Emotion Confidence: 0.60, Focus Score: 0.17

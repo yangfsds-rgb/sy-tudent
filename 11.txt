@@ -1,0 +1,9 @@
+Person ID: 1, Behavior: read, Confidence: 0.30, Emotion: fear, Emotion Confidence: 0.60, Focus Score: 0.02
+Person ID: 2, Behavior: read, Confidence: 0.31, Emotion: sad, Emotion Confidence: 0.72, Focus Score: 0.02
+Person ID: 3, Behavior: read, Confidence: 0.42, Emotion: sad, Emotion Confidence: 1.00, Focus Score: 0.03
+Person ID: 4, Behavior: read, Confidence: 0.44, Emotion: neutral, Emotion Confidence: 0.87, Focus Score: 0.27
+Person ID: 5, Behavior: rise_hand, Confidence: 0.79, Emotion: sad, Emotion Confidence: 0.99, Focus Score: 0.02
+Person ID: 6, Behavior: read, Confidence: 0.80, Emotion: neutral, Emotion Confidence: 0.89, Focus Score: 0.30
+Person ID: 7, Behavior: read, Confidence: 0.88, Emotion: angry, Emotion Confidence: 0.99, Focus Score: 0.05
+Person ID: 8, Behavior: read, Confidence: 0.88, Emotion: sad, Emotion Confidence: 0.99, Focus Score: 0.05
+Person ID: 9, Behavior: read, Confidence: 0.97, Emotion: fear, Emotion Confidence: 0.60, Focus Score: 0.06
