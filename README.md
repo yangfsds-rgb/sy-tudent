@@ -93,16 +93,13 @@ Contributing
 Contributions are welcome! Please follow these guidelines:
 
 1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -am 'Add your feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
+2. Create a new branch
+3. Commit your changes
+4. Push to the branch 
 5. Create a pull request
 
 License
 -------
-
-This project is licensed under the MIT License. See the [LICENSE](https://yiyan.baidu.com/chat/LICENSE) file for details.
-Acknowledgments
 
 ---------------
 
@@ -114,7 +111,7 @@ Acknowledgments
 Contact
 -------
 
-For questions or feedback, please contact the project maintainer at [mailto:your.email@example.com].
+For questions or feedback, please contact the project maintainer at [1871094949@qq.com].
 
 * * *
 
