@@ -1,0 +1,19 @@
+# 核心GUI库
+tk
+
+# 计算机视觉和图像处理
+opencv-python>=4.5.0
+Pillow>=8.0.0
+
+# 数据处理和分析
+pandas>=1.0.0
+numpy>=1.18.0
+
+# 数据可视化
+matplotlib>=3.3.0
+seaborn>=0.11.0
+
+# 其他可能需要的工具包（根据实际需求调整）
+# 如果有用到YOLO等深度学习模型，可能需要额外安装相关库，例如：
+# torch>=1.7.0  # 如果使用PyTorch版本的YOLO
+# tensorflow>=2.4.0  # 如果使用TensorFlow版本的模型
